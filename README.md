@@ -6,6 +6,8 @@ This repository contains the code and resources for a machine learning path aime
 
 The goal of this project is to leverage machine learning techniques to predict the major a student is likely to choose. The prediction is based on a variety of factors including RIASEC test, VCL test, and TIPI test.
 
+## Dataset
+
 ## Model
 
 The final model used for predicting the student's major is a Neural Network with model architecture:
