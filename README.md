@@ -7,6 +7,7 @@ This repository contains the code and resources for a machine learning path aime
 The goal of this project is to leverage machine learning techniques to predict the major a student is likely to choose. The prediction is based on a variety of factors including RIASEC test, VCL test, and TIPI test.
 
 ## Dataset
+The dataset used for this project is sourced from an open-source dataset available on Kaggle ([here](https://www.kaggle.com/datasets/lucasgreenwell/holland-code-riasec-test-responses))
 
 ## Model
 
