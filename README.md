@@ -9,3 +9,5 @@ The goal of this project is to leverage machine learning techniques to predict t
 ## Model
 
 The final model used for predicting the student's major is a Neural Network with model architecture:
+
+![image](https://github.com/Nest-NextStep/nest-model/assets/92930757/9274609c-264b-4154-bb48-e9b8bca34d7c)
